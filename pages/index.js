@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
         <p>Hello, I'm Angelos. I'm a software engineer. You can contact me on <a target='_blank' href='https://www.linkedin.com/in/angelos-vanakaris-438584219/'>LinkedIn</a>.</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          <a target='_blank' href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
 
